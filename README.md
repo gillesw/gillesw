@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gilles Wagner and I'm currently working as a Scrum Master on PLM projects
+I'm GillesW and I'm currently working as a Scrum Master on PLM projects
 
 This account is personal and has no relation with the company I'm working with or any of my customer. 
 <!--
