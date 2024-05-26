@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm GillesW and I'm currently working as a Solution Architect on 3DExperience PLM to digitally transform my customers.
+I'm GillesW and I'm currently working as Program Manager and a Solution Architect on 3DExperience PLM to digitally transform my customers.
 
 This account is personal and has no relation with the company I'm working with or any of my customers. 
 <!--
